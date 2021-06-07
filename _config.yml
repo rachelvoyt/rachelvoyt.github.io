@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Rachel Voyt"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD candidate at UT-Austin studying tamarins, chimerism, and female reproductive variation."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
