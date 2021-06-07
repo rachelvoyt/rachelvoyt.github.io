@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "PhD candidate at UT-Austin studying tamarins, chimerism, and female reproductive variation."
   links:
-    - label: "Website"
+    - label: "testing"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
