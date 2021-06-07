@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -57,11 +57,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Rachel Voyt"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD candidate at UT-Austin studying tamarins, chimerism, and female reproductive variation."
-  links:
+#author:
+#  name   : "Rachel Voyt"
+#  avatar : "/assets/images/bio-photo.jpg"
+#  bio    : "PhD candidate at UT-Austin studying tamarins, chimerism, and female reproductive variation."
+#  links:
    # - label: "testing"
      # icon: "fas fa-fw fa-link"
     #  url: "https://"
